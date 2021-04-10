@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+	padding: 50px;
+}
+
+#oceloti-hlava {
+	background-image: url(obrazky/fenek_foto.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h2 {
+	text-align: center;
+	padding: 50px;
+}
