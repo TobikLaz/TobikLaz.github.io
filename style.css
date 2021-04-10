@@ -1,16 +1,18 @@
+body {
+	padding: 10px;
+	background-color: #00ff2a;
+}
+
 h1 {
 	text-align: center;
-	padding: 50px;
+	padding: 100px;
+	font-size: 50px;
+	color: #00d0ff;
 }
 
 #oceloti-hlava {
-	background-image: url(obrazky/fenek_foto.jpg);
+	background-image: url(obrazky/ocelot1.jpg);
 	background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-}
-
-h2 {
-	text-align: center;
-	padding: 50px;
 }
